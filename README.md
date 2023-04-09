@@ -1,7 +1,7 @@
 @licarainsc
 - people. art. travel. movement. fashion. φoτογrαφία. vie au naturel + techn0 +++ 
 - official:/ html. css. javascript. freelance:/ greek. french. arabic. spanish. goals:/ java. 
-- galleries. concept stores. shops. artists. personal pages. events.
+- galleries. travel agencies. concept stores. shops. artists. personal pages. events.
 - @ —
 
 <!---
