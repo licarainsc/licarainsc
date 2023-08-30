@@ -1,7 +1,9 @@
 @licarainsc
-- official:/ html. css. javascript. freelance:/ greek. french. arabic. spanish. goals:/ java. 
-- galleries. travel agencies. concept stores. shops. real estate. artists. personal pages. events.
-- @ —
+
+official:/ html + css. javascript. freelance:/ greek. goals:/ java. angular. node.
+
+   artists. galleries. agencies. conceptstores. realestate. events. miscellaneous. 
+   @ contact: 
 
 <!---
 licarainsc/licarainsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
